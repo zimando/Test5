@@ -1,7 +1,7 @@
 # Test5
 使用PrefereceFragment实现设置页面
 主界面
-![Image](https://github.com/zimando/Test5/raw/master/drawable/1.1.png)
+![Image](https://github.com/zimando/Test5/raw/master/app/src/main/res/drawable/1.1.png)
 选中复选框
 ![Image](https://github.com/zimando/Test5/raw/master/drawable/1.2.png)
 选中文本框
